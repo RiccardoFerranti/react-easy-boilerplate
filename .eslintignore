@@ -1,0 +1,4 @@
+build/**
+firebase/**
+node_modules/**
+test/**
