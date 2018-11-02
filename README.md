@@ -1,4 +1,4 @@
-# An easy starter boilerplate for React
+# An easy boilerplate for React
 
 A quick and easy new boilerplate for React updated with lastest verions.
 
